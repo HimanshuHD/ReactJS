@@ -1,5 +1,5 @@
 console.log('Hello ReactJS...');
-ReactDOM.render(<p>Hello React 111!</p>, document.getElementById('app')); 
+ReactDOM.render(<p>I am learning React.</p>, document.getElementById('app')); 
 ReactDOM.render(
     <ul>
         <li>Item 1</li>
